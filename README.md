@@ -45,4 +45,3 @@ Feel free to contribute to this boilerplate by submitting pull requests or repor
 
 - Author - [Vahid Aslani](https://facebook.com/aslanivahid)
 - Email - [axieans@gmail.com](axieans@gmail.com)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
